@@ -1,0 +1,6 @@
+py4j==0.10.9.7
+pyspark==4.0.0
+delta-spark==4.0.0
+
+pyspark-stubs~=3.0.0.post3
+timer~=0.3.0
